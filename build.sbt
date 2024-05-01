@@ -1,5 +1,5 @@
 val projectName    = "CVPAdmin"
-val projectVersion = "0.1.0"
+val projectVersion = "0.1.3"
 
 name         := projectName
 version      := projectVersion
