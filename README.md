@@ -1,3 +1,3 @@
-# CVPADmin
+# CVPAdmin
 
 Админка для CertVerifyPlatform
